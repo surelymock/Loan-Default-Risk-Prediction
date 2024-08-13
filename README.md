@@ -1,1 +1,1 @@
-This data consists of 5k borrowers with information regarding their loans. Keep in mind this is fake data, but due to privacy reasons, I cannot share that data.
+This data consists of 5k borrowers with information regarding their loans. This project will explore various ML models and techniques, including Logistic Regression, Support Vector Machine, Decision Tree, and XGBoost. 
